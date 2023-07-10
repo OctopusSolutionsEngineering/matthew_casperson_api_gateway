@@ -1,3 +1,3 @@
 variable "OctopusPrintVariables" {
-    value "True" {}
+    value "False" {}
 }
